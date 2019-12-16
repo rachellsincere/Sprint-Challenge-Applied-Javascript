@@ -36,7 +36,7 @@
         cardDiv.appendChild(authorDiv);
         authorDiv.appendChild(imgContainerDiv);
         imgContainerDiv.appendChild(img);
-        authorDiv.appendChild(span);
+        authorDiv.appendChild(bySpan);
                 
         cardDiv.classList.add('card');
         headlineDiv.classList.add('headline');
